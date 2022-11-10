@@ -20,3 +20,6 @@
   นางสาวภัทรวดี นาดี  633021022-2
 ## Data Studio 
 https://datastudio.google.com/u/0/reporting/89d980ee-5a11-4f78-a680-8b1bd0fd8c99/page/p_ovn2qc3d0c
+
+## Presentation
+https://www.canva.com/design/DAFRb315DcA/odGXUkb6g1iuzvUAnwi-uQ/edit?utm_content=DAFRb315DcA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton&fbclid=IwAR3PmjOultgaI0IaUQj-q2cAXau7Is4oW4YBcDYo4HQdfRyflen_jRmAHx0
