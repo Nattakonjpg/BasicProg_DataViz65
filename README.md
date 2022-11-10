@@ -18,3 +18,5 @@
   นายณัฐกรณ์ พวงแก้ว 633021015-9
   นางสาวกาญจนสุดา ผุยมูลตรี 633021022-2
   นางสาวภัทรวดี นาดี  633021022-2
+## Data Studio 
+https://datastudio.google.com/u/0/reporting/89d980ee-5a11-4f78-a680-8b1bd0fd8c99/page/p_ovn2qc3d0c
